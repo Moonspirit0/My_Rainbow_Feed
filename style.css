@@ -7,6 +7,24 @@ body{
 }
 
 img{
-    height: 400px 
+    height: 200px;
     border: 2px dotted crimson;
+}
+
+span{
+    margin: 10px; 
+    display: inline-block;
+}
+
+div{
+    margin-top: 20px;
+    text-align: center;
+}
+
+h5{
+    width:inherit;
+}
+
+h1{
+    text-align: center;
 }
